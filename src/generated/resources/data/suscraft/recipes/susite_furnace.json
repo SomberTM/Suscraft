@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#F#",
+    "###"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "#": {
+      "item": "suscraft:susite_ingot"
+    }
+  },
+  "result": {
+    "item": "suscraft:susite_furnace"
+  }
+}
