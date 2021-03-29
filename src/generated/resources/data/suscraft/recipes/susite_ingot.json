@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "suscraft:susite_block"
+    }
+  ],
+  "result": {
+    "item": "suscraft:susite_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "suscraft:susite_ore"
+  },
+  "result": "suscraft:susite_ingot",
+  "experience": 0.5,
+  "cookingtime": 100
+}
